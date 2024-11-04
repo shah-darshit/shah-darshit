@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp1MnlhcWl3ZXlvM2p5NzU4OWJkc290aWZsYXBlNzMwODd6c3hqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KS68xOSp3g5c51qc4m/giphy.gif" width="718"/>
 </div>
 
-# 👋 Hi, I'm Darsh
+# 👋 Hi, I'm Darshit
 
 ## 🚀 About Me
 Passionate about the intersection of Finance and Technology, I'm a Computer Science undergraduate with a keen interest in FinTech and Quantitative Research.
