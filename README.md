@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp1MnlhcWl3ZXlvM2p5NzU4OWJkc290aWZsYXBlNzMwODd6c3hqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KS68xOSp3g5c51qc4m/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp1MnlhcWl3ZXlvM2p5NzU4OWJkc290aWZsYXBlNzMwODd6c3hqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KS68xOSp3g5c51qc4m/giphy.gif" width="718"/>
 </div>
 
 # 👋 Hi, I'm Darsh
@@ -19,20 +19,20 @@ Passionate about the intersection of Finance and Technology, I'm a Computer Scie
   [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:darshit-shah@outlook.com)
 
 
-- ⚡ Fun fact: I built my first trading algorithm while still in my first year of university, which analyzed market patterns using Python and MySQL
+- ⚡ Fun fact: I’m fluent in six languages, but none of them are object-oriented... unless you count my ability to avoid certain ‘objects’ in Java!
 
 
 ## 💻 Tech Stack
-- Languages: [List your programming languages]
-- Frameworks: [List relevant frameworks]
-- Tools: [List development tools]
+- Languages: Python, Java, C++, HTML/CSS, JavaScript
+- Frameworks: React, Node.js
+- Tools: Git, Linux, MySQL, AWS
 
 ## 🔍 Current Focus
 - Exploring quantitative trading strategies
 - Developing FinTech applications
 - Machine Learning in financial markets
 
-## 📊 GitHub Stats
-![Your GitHub stats]
-(Add GitHub stats widget link here)
+## 📊 GitHub Stats 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shah-darshit&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shah-darshit&langs_count=5&theme=tokyonight)]()
 
